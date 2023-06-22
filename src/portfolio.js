@@ -7,11 +7,11 @@ const settings = {
 
 //SEO Related settings
 const seo = {
-  title: "Saqib's Portfolio",
+  title: "Mohammed Saqib's Portfolio",
   description:
-    "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+    "I have a passion for creating products and services that make people's lives better. A self-driven team player with strong communication and problem-solving abilities. I continually endeavor to increase my knowledge of programming languages, software engineering, algorithms and complexities, all while maintaining a keen eye for detail and a never-ending desire to learn.",
   og: {
-    title: "Ashutosh Hathidara Portfolio",
+    title: "Mohammed Saqib Rahman Portfolio",
     type: "website",
     url: "http://ashutoshhathidara.com/",
   },
@@ -23,7 +23,7 @@ const greeting = {
   logo_name: "MSR",
   nickname: "msaqibrahman",
   subTitle:
-    "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+    "Passionate about creating products and services that make people's lives better. I endeavor to increase my knowledge of programming, software engineering, algorithms and complexities, all while maintaining a keen eye for detail and a never-ending desire to learn.",
   resumeLink:
     "https://drive.google.com/file/d/1FL_wydnPF2SWCdw2goYAgZ1KKBx8TpcD/view?usp=sharing",
   portfolio_repository: "https://github.com/ashutosh1919/masterPortfolio",
